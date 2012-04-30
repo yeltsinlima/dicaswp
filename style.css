@@ -1,0 +1,23 @@
+/*   
+Theme Name: DicasWP+ Versão 1.0
+Theme URI: http://www.dicaswp.com.br
+Description: Desenvolvido por <a href="http://www.yeltsin.com.br/">Yeltsin Lima</a>.
+Author: Yeltsin Lima
+Author URI: http://www.yeltsin.com.br
+Version: 1.0.0
+*/
+
+#header { background: #C30800; padding-bottom: 20px; padding-top: 20px; }
+.banner { padding-top: 30px; }
+.float-left { float: left; }
+#search { margin-left: 65px; }
+#pesquisa { padding: 10px; border-radius: 10px 0px 0px 10px; }
+#pesquisabtn { padding: 12px; border-radius: 0px 10px 10px 0px; margin-top: 2px; }
+#menu { background: #EEE; }
+#breadcumb { margin-top: 40px; padding-bottom: 20px; border-bottom: solid 1px #CCC; }
+#newsletter { margin-top: 40px; padding-bottom: 20px; border-bottom: solid 1px #CCC; }
+#blog { margin-top: 20px; padding-bottom: 20px; border-bottom: solid 1px #CCC; }
+.artigos { border-bottom: solid 1px #999; padding-bottom: 20px; padding-top: 20px; }
+.widget { border-bottom: solid 1px #999; padding-bottom: 20px; padding-top: 20px; }
+.paginacao {  padding-bottom: 20px; padding-top: 20px; } 
+#featured { margin-bottom: 20px; }
